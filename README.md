@@ -1,6 +1,6 @@
-<h3 align="center">Computer Science Undergraduate | University of Westminster | Aspiring Software Engineer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=l1nal&label=Profile%20views&color=0e75b6&style=flat" alt="l1nal" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l1nal&label=Profile%20views&color=0e75b6&style=flat" alt="l1nal" /> </p>
+<h3 align="center">Computer Science Undergraduate | University of Westminster | Aspiring Software Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,5 +13,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l1nal&show_icons=true&locale=en" alt="l1nal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l1nal&" alt="l1nal" /></p>
 
