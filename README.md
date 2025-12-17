@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=l1nal&label=Profile%20views&color=0e75b6&style=flat" alt="l1nal" /> </p>
 
-<h3 align="center">Computer Science Undergraduate | University of Westminster | Aspiring Software Engineer</h3>
+<h3 align="center">Computer Science Undergraduate | Aspiring Software Engineer</h3>
 
 <p align="center">
 </p>
